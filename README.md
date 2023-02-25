@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects.**
 
-- 💬 Ask me about **Java, SpringBoot, Kafka, MongoDB, Docker, K8s.**
+- 💬 Ask me about **Java, SpringBoot, Kafka, Protobufs, MongoDB, Docker, K8s.**
 
 - 📫 How to reach me **raoshubham310@gmail.com**
 
@@ -22,11 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhamrao310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamrao310" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-rao-826507157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-rao-826507157/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shubham.rao.310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shubham.rao.310" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/shubhamrao111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shubhamrao111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shubhamrao111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shubhamrao111/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shubhamrao1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shubhamrao1/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-rao-826507157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-rao-826507157" height="30" width="40" /></a>
+<a href="https://fb.com/shubham.rao.310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham.rao.310" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shubhamrao111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamrao111" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubhamrao111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamrao111" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shubhamrao1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamrao1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
